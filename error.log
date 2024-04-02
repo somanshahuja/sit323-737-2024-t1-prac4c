@@ -2,4 +2,5 @@
 {"level":"error","message":"n2 can't be zero","service":"calculate-service"}
 {"level":"error","message":"n2 can't be zero","service":"calculate-service"}
 {"level":"error","message":"n2 can't be zero","service":"calculate-service"}
-{"level":"error","message":"n2 can't be zero","service":"calculate-service"}
+{"level":"error","message":"n2 can't be zero","service":"calculate-service"}{"level":"error","message":"Invalid input","service":"calculate-service"}
+{"level":"error","service":"calculate-service"}
